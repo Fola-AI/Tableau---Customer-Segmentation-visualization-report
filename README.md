@@ -1,4 +1,4 @@
-# Tableau---Customer-Segmentation-visualization-report
+# Tableau---Customer_Segmentation_Visualization_report
 Tableau project 
 This is a project done in Tableau showing customer segmentation in a UK bank. This is not a real dataset of UK banks but the data shows distribution of customers in this bank accross all the states/provinces (as recognized by tableau) in the UK. 
 It also displays the distribution across age groups, sex and job classification. 
